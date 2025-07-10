@@ -93,6 +93,15 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏅 Achievements & Certifications
+
+[![Big Data Foundations - Level 1](https://img.shields.io/badge/IBM-Big%20Data%20Foundations%20L1-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/773517ea-8fda-4419-9908-ce78d5229848)
+
+📜 View all certifications on  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
+
+---
+
 ## 📚 Currently Learning
 
 - Deepening knowledge in **Machine Learning** and **Deep Learning**
