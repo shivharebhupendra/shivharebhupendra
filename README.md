@@ -95,12 +95,16 @@ Here are some ideas to get you started:
 
 ## 🏅 Achievements & Certifications
 
-### 🎓 IBM Big Data Foundations – Level 1  
-_Completed on June 20, 2023_
+[![Big Data Foundations](https://img.shields.io/badge/IBM-Big%20Data%20Foundations-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/773517ea-8fda-4419-9908-ce78d5229848)  
+[![Hadoop Foundations](https://img.shields.io/badge/IBM-Hadoop%20Foundations-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/443dd69a-3ee0-4c80-acdb-7eddbcce6d6b)  
+[![Spark Level 1](https://img.shields.io/badge/IBM-Spark%20L1-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/d00de449-4328-4212-8d53-92da0ae50bc8)  
+[![Data Fundamentals](https://img.shields.io/badge/IBM-Data%20Fundamentals-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/06aa3187-41d7-4bbc-b2e8-ed5bb673d56b)  
+[![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/0ab57241-cf78-411d-9302-10b58623c338)  
+[![Data Analysis Using Python](https://img.shields.io/badge/IBM-Data%20Analysis%20Using%20Python-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/2f6f6e45-cae7-4c95-affa-8a917e89d93f)  
+[![Data Visualization Using Python](https://img.shields.io/badge/IBM-Data%20Visualization%20Using%20Python-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/f1d96401-0097-4e9d-b0d0-66008d96dbfa)
 
-[![IBM Badge](https://img.shields.io/badge/IBM-Big%20Data%20Foundations%20L1-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/773517ea-8fda-4419-9908-ce78d5229848)
-
-[![Certificate](https://user-images.githubusercontent.com/00000000/ibm-cert-example.png)](https://www.credly.com/badges/773517ea-8fda-4419-9908-ce78d5229848)
+📜 View more badges and certificates on  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
 
 
 ---
