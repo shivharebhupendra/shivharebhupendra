@@ -117,8 +117,23 @@ Here are some ideas to get you started:
 - Practicing **Advanced SQL** and **Statistical Techniques**
 - Improving **Dashboarding** with **Power BI**
 
-## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Gmail-shivharebhupendra0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivharebhupendra0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivharebhupendra)
+
+---
+
+## 🙏 Thanks for Visiting!
+
+If you found my work interesting or useful, feel free to connect or reach out — I'm always open to learning and collaboration!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivharebhupendra@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivharebhupendra&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivharebhupendra&layout=compact&theme=radical" width="45%" />
+</p>
+
