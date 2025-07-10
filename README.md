@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   - Responsibilities: Bug reporting, analysis, check-sheet documentation, hardware/software issue resolution
 
 
+---
+
 ## ⚙️ Skills & Tech Stack
 
 ### 💡 Languages & Tools
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 - **Machine Learning**: Scikit-learn, Model Evaluation, Deep Learning (basics)  
 - **NLP & AI**: Natural Language Processing (NLP), Prompt Engineering  
 - **Database**: MySQL, MySQL Workbench  
-- **Tools**: Jupyter Notebook, Git, Excel, Power BI  
+- **Tools**: Jupyter Notebook, Google Colab, Git, Excel, Power BI  
 - **Testing & QA**: Bug Reporting, Hardware Debugging, Checksheet Analysis
 
 ---
@@ -65,8 +67,42 @@ Here are some ideas to get you started:
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blueviolet?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-ff6f61?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4b0082?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+## 💼 Projects
+
+### 📊 Telco Customer Churn Prediction
+- Performed complete EDA and preprocessing
+- Built and compared Logistic Regression & Random Forest models
+- Evaluated model performance with accuracy, confusion matrix, etc.
+- 🔗 [View Project](https://github.com/shivharebhupendra/telco-churn-prediction)
+
+---
+
+### 📄 Job Descriptions Analysis (SAL_BW_Project)
+- Worked with team on data cleaning and SQL-driven insights
+- Performed exploratory data analysis on job description keywords
+- Identified key trends in skills and roles using visualizations
+- 🔗 [View Project](https://github.com/shivharebhupendra/SAL_BW_Project)
+
+---
+
+## 📚 Currently Learning
+
+- Deepening knowledge in **Machine Learning** and **Deep Learning**
+- Exploring **Natural Language Processing (NLP)** and **Prompt Engineering**
+- Building real-world **Data Science Projects**
+- Practicing **Advanced SQL** and **Statistical Techniques**
+- Improving **Dashboarding** with **Power BI**
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Gmail-shivharebhupendra0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivharebhupendra0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivharebhupendra)
