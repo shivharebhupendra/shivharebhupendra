@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - Performed complete EDA and preprocessing
 - Built and compared Logistic Regression & Random Forest models
 - Evaluated model performance with accuracy, confusion matrix, etc.
-- 🔗 [View Project](https://github.com/shivharebhupendra/telco-churn-prediction)
+- 🔗 [View Project](https://github.com/shivharebhupendra/telco-customer-churn-prediction)
 
 ---
 
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 - Worked with team on data cleaning and SQL-driven insights
 - Performed exploratory data analysis on job description keywords
 - Identified key trends in skills and roles using visualizations
-- 🔗 [View Project](https://github.com/shivharebhupendra/SAL_BW_Project)
+- 🔗 [View Project](https://github.com/shivharebhupendra/Build_Week_Project)
 
 ---
 
