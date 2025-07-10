@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shivharebhupendra/shivharebhupendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I'm Bhupendra Shivhare
+
+- 🧑 **Age**: 24  
+- 📍 **Location**: Gwalior, Madhya Pradesh, India
+
