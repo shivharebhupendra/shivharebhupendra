@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 - Achieved ~78% test accuracy on CIFAR-10 dataset  
 - Visualized training vs validation accuracy over epochs  
 - Performed image prediction with actual vs predicted label comparison  
-- 🔗 [View Project](https://github.com/shivharebhupendra/image-classification-cnn)
+- 🔗 [View Project](https://github.com/shivharebhupendra/Image-Classification-with-CNN)
 
 ---
 
