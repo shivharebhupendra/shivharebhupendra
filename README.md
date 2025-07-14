@@ -77,6 +77,15 @@ Here are some ideas to get you started:
 ---
 ## 💼 Projects
 
+### 🖼️ Image Classification using CNN  
+- Built a Convolutional Neural Network (CNN) from scratch using Keras & TensorFlow  
+- Achieved ~78% test accuracy on CIFAR-10 dataset  
+- Visualized training vs validation accuracy over epochs  
+- Performed image prediction with actual vs predicted label comparison  
+- 🔗 [View Project](https://github.com/shivharebhupendra/image-classification-cnn)
+
+---
+
 ### 📊 Telco Customer Churn Prediction
 - Performed complete EDA and preprocessing
 - Built and compared Logistic Regression & Random Forest models
