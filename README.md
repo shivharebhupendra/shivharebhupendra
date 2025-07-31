@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I'm passionate about **Data Analysis** and **Artificial Intelligence**.
 
-<img src="assets/image-1.jpg" alt="Data Analyst" width="250"/>
-<img src="assets/image-2.webp" alt="AI" width="250"/>
+<img src="assets/image-1.jpg" alt="Data Analyst" />
+
 
 - 🧑 **Age**: 24  
 - 📍 **Location**: Gwalior, Madhya Pradesh, India
