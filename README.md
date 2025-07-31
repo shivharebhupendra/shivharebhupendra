@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-- **B.Tech in Electronics and Communication Engineering**  
-  Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
-
 - **Data Science Course (Currently Pursuing)**  
   Masai School, Bengaluru  
   Focus Areas: Python, SQL, Statistics, Machine Learning, Projects, and Industry Readiness
 
+  
+- **B.Tech in Electronics and Communication Engineering**  
+  Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
+
+
+
 ---
+<img src="https://example.com/[data-analyst.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fdata-science&psig=AOvVaw0HByawbc-dlrMSzq3vAO5X&ust=1754028308840000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj1r-W25o4DFQAAAAAdAAAAABAE)" alt="Data Analyst" width="300"/>
 
 ## 💼 Experience
 
