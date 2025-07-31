@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Bhupendra Shivhare
 
+I'm passionate about **Data Analysis** and **Artificial Intelligence**.
+
+<img src="assets/data-analyst.png" alt="Data Analyst" width="250"/>
+<img src="assets/ai-illustration.png" alt="AI" width="250"/>
+
 - 🧑 **Age**: 24  
 - 📍 **Location**: Gwalior, Madhya Pradesh, India
 
@@ -33,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ---
-<img src="https://example.com/[data-analyst.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fdata-science&psig=AOvVaw0HByawbc-dlrMSzq3vAO5X&ust=1754028308840000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj1r-W25o4DFQAAAAAdAAAAABAE)" alt="Data Analyst" width="300"/>
+
 
 ## 💼 Experience
 
