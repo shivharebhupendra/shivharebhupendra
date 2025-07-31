@@ -43,11 +43,23 @@ I'm passionate about **Data Analysis** and **Artificial Intelligence**.
 ## 💼 Experience
 
 - **Graduate Engineer Trainee → Engineer**  
-  DBG Technology | Duration: 6+ months  
+  DBG Technology | Duration: 6 months  
   - Worked in Testing & QA  
   - Devices handled: Audio systems, Cameras, Touch Panels  
   - Responsibilities: Bug reporting, analysis, check-sheet documentation, hardware/software issue resolution
 
+
+**Data Analytics Intern**  
+**IBM SkillsBuild (in collaboration with AICTE & Edunet Foundation)**  
+📅 _June 12, 2023 – July 24, 2023 (6 Weeks)_  
+**Internship ID:** `INTERNSHIP_168198413964410a8b547b1`  
+**Student ID:** `STU603dd315637f71614664469`  
+**Focus Areas:**  
+- Python for Data Science  
+- Big Data & Hadoop  
+- Data Visualization  
+- Practical Analytics Projects  
+- Industry-based Data Analytics Skills
 
 ---
 
