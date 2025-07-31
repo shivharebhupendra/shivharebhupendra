@@ -42,11 +42,11 @@ I'm passionate about **Data Analysis** and **Artificial Intelligence**.
 
 ## 💼 Experience
 
-- **Graduate Engineer Trainee → Engineer**  
-  DBG Technology | Duration: 6 months  
-  - Worked in Testing & QA  
-  - Devices handled: Audio systems, Cameras, Touch Panels  
-  - Responsibilities: Bug reporting, analysis, check-sheet documentation, hardware/software issue resolution
+**Graduate Engineer Trainee → Engineer**  
+DBG Technology | Duration: 6 months  
+- Worked in Testing & QA  
+- Devices handled: Audio systems, Cameras, Touch Panels  
+- Responsibilities: Bug reporting, analysis, check-sheet documentation, hardware/software issue resolution
 
 
 **Data Analytics Intern**  
