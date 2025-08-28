@@ -98,6 +98,15 @@ DBG Technology | Duration: 6 months
 ---
 ## 💼 Projects
 
+### 📊 COVID-19 Analytics Dashboard using BigQuery + Power BI
+- Connected BigQuery (DirectQuery) with Power BI for real-time insights
+- Analyzed global cases, deaths & vaccination trends
+- Built interactive visuals with drill-down filters & KPIs
+- Dashboard auto-refreshes when data updates in BigQuery
+- 🔗 [View Project](https://github.com/shivharebhupendra/covid19-analytics-project)
+
+---
+
 ### 🖼️ Image Classification using CNN  
 - Built a Convolutional Neural Network (CNN) from scratch using Keras & TensorFlow  
 - Achieved ~78% test accuracy on CIFAR-10 dataset  
