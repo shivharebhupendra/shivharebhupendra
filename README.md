@@ -21,15 +21,13 @@ I'm passionate about **Data Analysis** and **Artificial Intelligence**.
 
 <img src="assets/image-1.jpg" alt="Data Analyst" />
 
-
-- 🧑 **Age**: 24  
+ 
 - 📍 **Location**: Gwalior, Madhya Pradesh, India
 
 ## 🎓 Education
 
-- **Data Science Course**  
-  Masai School, Bengaluru  
-  Focus Areas: Python, SQL, Statistics, Machine Learning, Projects, and Industry Readiness
+- **M.Tech in Computer Science**  
+  LNCT University, Bhopal, Madhya Pradesh
 
   
 - **B.Tech in Electronics and Communication Engineering**  
@@ -44,6 +42,37 @@ I'm passionate about **Data Analysis** and **Artificial Intelligence**.
 
 **Data Scientist**
 **IBM IX**
+- Hands-on experience with AI Watson Studio and IBM Cloud services for data analytics.
+- Hands-on experience with IBM Cognos Analytics for reporting, dashboards, and
+business insights.
+- Strong expertise in Python for data science, including data cleaning, analysis, and
+visualisation.
+- Integrating analytical, visualization, and cloud tools to support data-driven decision-making
+and reporting outcomes.
+- Solid understanding of IBM Cloud fundamentals, services, and cloud-based data
+workflows.
+- Knowledge of Big Data concepts with practical exposure to Hadoop and Apache Spark.
+- Proficient in data fundamentals, data preprocessing, and exploratory data analysis
+(EDA).
+- Ability to design and deliver industry-aligned curriculum, labs, and student projects.
+- Effective in teaching and mentoring beginners, simplifying complex technical concepts.
+- Experience in student mentoring, career guidance, and interview preparation.
+- Hands-on exposure to real-world datasets, industry use cases, and problem-based learning
+methodologies.
+- Skilled in leveraging analytical tools and BI dashboards to support data-driven decision-making.
+
+**Data Analyst**
+**Masai School**
+- Collected, cleaned, and validated data from multiple sources to ensure accuracy and consistency for analysis
+- Analyzed large datasets using SQL, Excel, and Python/R to identify trends, patterns, and business insights
+- Designed and maintained dashboards and reports to track KPIs and support data-driven decision-making
+- Wrote optimized SQL queries using JOIN, GROUP BY, HAVING, and subqueries for reporting and analysis
+- Performed data cleaning and preprocessing, including handling missing values, duplicates, and outliers
+- Conducted exploratory data analysis (EDA) to understand data behavior and uncover actionable insights
+- Automated recurring reports using Excel formulas, Power Query, or scripts, reducing manual effort
+- Worked closely with business and operations teams to understand requirements and translate them into analytical solutions
+- Validated analytical results by cross-checking outputs with source systems and stakeholder expectations
+- Prepared clear data visualizations and presentations to communicate insights to non-technical stakeholders
 
 **Testing Engineer → Engineer**  
 **DBG Technology** 
@@ -144,18 +173,6 @@ I'm passionate about **Data Analysis** and **Artificial Intelligence**.
 
 📜 View more badges and certificates on  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
-
-
----
-
-## 📚 Currently Learning
-
-- Deepening knowledge in **Machine Learning** and **Deep Learning**
-- Exploring **Natural Language Processing (NLP)** and **Prompt Engineering**
-- Building real-world **Data Science Projects**
-- Practicing **Advanced SQL** and **Statistical Techniques**
-- Improving **Dashboarding** with **Power BI**
-
 
 
 ---
