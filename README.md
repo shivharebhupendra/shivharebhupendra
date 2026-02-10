@@ -82,7 +82,7 @@ methodologies.
 
 
 **Data Analytics Intern**  
-**IBM SkillsBuild (in collaboration with AICTE & Edunet Foundation)**    
+**Edunet Foundation**    
 **Focus Areas:**  
 - Python for Data Science  
 - Big Data & Hadoop  
