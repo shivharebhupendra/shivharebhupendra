@@ -1,106 +1,51 @@
-
-
-<!--
-**shivharebhupendra/shivharebhupendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 👋 Hi, I'm Bhupendra Shivhare
 
-I'm passionate about **Data Analysis** and **Artificial Intelligence**.
+## Data Analyst | Data Science Instructor | Python | SQL | Power BI | Machine Learning
+
+I’m currently working as a **Data Science Instructor** and actively transitioning into **Data Analyst / Data Science roles**.
+
+I enjoy solving business problems using **data analysis, dashboards, SQL, Python, and machine learning**. My background in teaching has helped me build strong conceptual clarity and communication skills, and I’m now focused on applying these skills in real-world data projects.
+
 
 <img src="assets/image-1.jpg" alt="Data Analyst" />
 
- 
-- 📍 **Location**: Gwalior, Madhya Pradesh, India
 
 ## 🎓 Education
 
-- **M.Tech in Computer Science**  
-  LNCT University, Bhopal, Madhya Pradesh
-
-  
 - **B.Tech in Electronics and Communication Engineering**  
   Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
 
-
-
 ---
-
 
 ## 💼 Experience
 
-**Data Scientist**
-**IBM IX**
-- Hands-on experience with AI Watson Studio and IBM Cloud services for data analytics.
-- Hands-on experience with IBM Cognos Analytics for reporting, dashboards, and
-business insights.
-- Strong expertise in Python for data science, including data cleaning, analysis, and
-visualisation.
-- Integrating analytical, visualization, and cloud tools to support data-driven decision-making
-and reporting outcomes.
-- Solid understanding of IBM Cloud fundamentals, services, and cloud-based data
-workflows.
-- Knowledge of Big Data concepts with practical exposure to Hadoop and Apache Spark.
-- Proficient in data fundamentals, data preprocessing, and exploratory data analysis
-(EDA).
-- Ability to design and deliver industry-aligned curriculum, labs, and student projects.
-- Effective in teaching and mentoring beginners, simplifying complex technical concepts.
-- Experience in student mentoring, career guidance, and interview preparation.
-- Hands-on exposure to real-world datasets, industry use cases, and problem-based learning
-methodologies.
-- Skilled in leveraging analytical tools and BI dashboards to support data-driven decision-making.
+### Data Science Instructor | Allsoft Solutions
+- Delivered training in **Python, Data Analytics, Machine Learning, IBM Watson Studio, IBM Cloud, and Cognos Analytics**.
+- Guided learners through **data cleaning, exploratory data analysis (EDA), visualization, and real-world project workflows**.
+- Designed and supported **industry-aligned labs, case studies, and student projects** focused on business problem-solving.
+- Worked with **cloud-based analytics tools and reporting platforms** to demonstrate data-driven decision-making and dashboarding concepts.
+- Mentored students in **project development, interview preparation, and career readiness** for analytics and data roles.
 
-**Data Analyst**
-**Masai School**
-- Collected, cleaned, and validated data from multiple sources to ensure accuracy and consistency for analysis
-- Analyzed large datasets using SQL, Excel, and Python/R to identify trends, patterns, and business insights
-- Designed and maintained dashboards and reports to track KPIs and support data-driven decision-making
-- Wrote optimized SQL queries using JOIN, GROUP BY, HAVING, and subqueries for reporting and analysis
-- Performed data cleaning and preprocessing, including handling missing values, duplicates, and outliers
-- Conducted exploratory data analysis (EDA) to understand data behavior and uncover actionable insights
-- Automated recurring reports using Excel formulas, Power Query, or scripts, reducing manual effort
-- Worked closely with business and operations teams to understand requirements and translate them into analytical solutions
-- Validated analytical results by cross-checking outputs with source systems and stakeholder expectations
-- Prepared clear data visualizations and presentations to communicate insights to non-technical stakeholders
+### Testing Engineer → Engineer | DBG Technology
+- Worked in **Testing & Quality Assurance** across consumer electronic devices including **audio systems, cameras, and touch panels**.
+- Performed **bug reporting, issue analysis, validation testing, and documentation** to support product quality and defect resolution.
+- Collaborated on **hardware/software issue identification and testing workflows**.
 
-**Testing Engineer → Engineer**  
-**DBG Technology** 
-- Worked in Testing & QA  
-- Devices handled: Audio systems, Cameras, Touch Panels  
-- Responsibilities: Bug reporting, analysis, check-sheet documentation, hardware/software issue resolution
-
-
-**Data Analytics Intern**  
-**Edunet Foundation**    
-**Focus Areas:**  
-- Python for Data Science  
-- Big Data & Hadoop  
-- Data Visualization  
-- Practical Analytics Projects  
-- Industry-based Data Analytics Skills
+### Data Analytics Intern | Edunet Foundation
+- Gained practical exposure to **Python for Data Science, Data Visualization, Big Data concepts, and analytics workflows**.
+- Worked on **hands-on analytics projects** involving data preprocessing, analysis, and business insights generation.
 
 ---
 
 ## ⚙️ Skills & Tech Stack
 
 ### 💡 Languages & Tools
-- **Languages**: Python, SQL  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, Model Evaluation, Deep Learning (basics)  
-- **NLP & AI**: Natural Language Processing (NLP), Prompt Engineering  
-- **Database**: MySQL, MySQL Workbench  
-- **Tools**: Jupyter Notebook, Google Colab, Git, Excel, Power BI  
+- **Languages**: Python, SQL
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, Model Building, Model Evaluation
+- **AI / NLP**: Natural Language Processing (NLP), Prompt Engineering
+- **Databases**: MySQL
+- **Tools & Platforms**: Jupyter Notebook, Google Colab, Git, Excel, Power BI, MySQL Workbench
 - **Testing & QA**: Bug Reporting, Hardware Debugging, Checksheet Analysis
 
 ---
@@ -128,35 +73,35 @@ methodologies.
 ## 💼 Projects
 
 ### 📊 COVID-19 Analytics Dashboard using BigQuery + Power BI
-- Connected BigQuery (DirectQuery) with Power BI for real-time insights
-- Analyzed global cases, deaths & vaccination trends
-- Built interactive visuals with drill-down filters & KPIs
-- Dashboard auto-refreshes when data updates in BigQuery
+- Built an interactive analytics dashboard by connecting **Google BigQuery (DirectQuery)** with **Power BI**
+- Analyzed **global COVID-19 cases, deaths, and vaccination trends** using real-time query-driven insights
+- Designed KPI cards, drill-down visuals, and filters to support data exploration and trend analysis
+- Enabled **auto-refresh reporting workflows** through BigQuery-connected data updates
 - 🔗 [View Project](https://github.com/shivharebhupendra/covid19-analytics-project)
 
 ---
 
-### 🖼️ Image Classification using CNN  
-- Built a Convolutional Neural Network (CNN) from scratch using Keras & TensorFlow  
-- Achieved ~78% test accuracy on CIFAR-10 dataset  
-- Visualized training vs validation accuracy over epochs  
-- Performed image prediction with actual vs predicted label comparison  
+### 🖼️ Image Classification using CNN
+- Developed a **Convolutional Neural Network (CNN)** using **TensorFlow / Keras** for image classification on the **CIFAR-10** dataset
+- Achieved approximately **78% test accuracy** and evaluated model performance across training and validation epochs
+- Visualized model learning behavior and performed prediction analysis with **actual vs predicted label comparison**
 - 🔗 [View Project](https://github.com/shivharebhupendra/Image-Classification-with-CNN)
 
 ---
 
 ### 📊 Telco Customer Churn Prediction
-- Performed complete EDA and preprocessing
-- Built and compared Logistic Regression & Random Forest models
-- Evaluated model performance with accuracy, confusion matrix, etc.
+- Performed **data cleaning, preprocessing, and exploratory data analysis (EDA)** on telecom customer data
+- Built and compared **Logistic Regression** and **Random Forest** models for churn prediction
+- Evaluated performance using **accuracy, confusion matrix, and classification metrics**
+- Derived insights to identify customer churn patterns and retention-related signals
 - 🔗 [View Project](https://github.com/shivharebhupendra/telco-customer-churn-prediction)
 
 ---
 
-### 📄 Job Descriptions Analysis (SAL_BW_Project)
-- Worked with team on data cleaning and SQL-driven insights
-- Performed exploratory data analysis on job description keywords
-- Identified key trends in skills and roles using visualizations
+### 📄 Job Descriptions Analysis
+- Worked on a collaborative analytics project focused on **job description and skill trend analysis**
+- Performed **data cleaning, SQL-based analysis, and exploratory data analysis** on role and keyword datasets
+- Identified high-demand skills, role patterns, and industry-relevant trends through data visualization
 - 🔗 [View Project](https://github.com/shivharebhupendra/Build_Week_Project)
 
 ---
