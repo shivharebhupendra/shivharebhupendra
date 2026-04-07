@@ -7,7 +7,9 @@ I’m currently working as a **Data Science Instructor** and actively transition
 I enjoy solving business problems using **data analysis, dashboards, SQL, Python, and machine learning**. My background in teaching has helped me build strong conceptual clarity and communication skills, and I’m now focused on applying these skills in real-world data projects.
 
 
-<img src="assets/image-1.jpg" alt="Data Analyst" />
+<p align="center">
+  <img src="assets/image-1.jpg" alt="Data Analyst Banner" width="500"/>
+</p>
 
 
 ## 🎓 Education
