@@ -12,12 +12,6 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 </p>
 
 
-## 🎓 Education
-
-- **B.Tech in Electronics and Communication Engineering**  
-  Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
-
----
 
 ## 💼 Experience
 
@@ -39,6 +33,15 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 
 ---
 
+
+## 🎓 Education
+
+**B.Tech in Electronics and Communication Engineering**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
+
+---
+
+
 ## ⚙️ Skills & Tech Stack
 
 ### 💡 Languages & Tools
@@ -58,10 +61,7 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blueviolet?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-ff6f61?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4b0082?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -111,16 +111,9 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 ## 🏅 Achievements & Certifications
 
 [![Big Data Foundations](https://img.shields.io/badge/IBM-Big%20Data%20Foundations-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/773517ea-8fda-4419-9908-ce78d5229848)  
-[![Hadoop Foundations](https://img.shields.io/badge/IBM-Hadoop%20Foundations-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/443dd69a-3ee0-4c80-acdb-7eddbcce6d6b)  
-[![Spark Level 1](https://img.shields.io/badge/IBM-Spark%20L1-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/d00de449-4328-4212-8d53-92da0ae50bc8)  
-[![Data Fundamentals](https://img.shields.io/badge/IBM-Data%20Fundamentals-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/06aa3187-41d7-4bbc-b2e8-ed5bb673d56b)  
 [![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/0ab57241-cf78-411d-9302-10b58623c338)  
 [![Data Analysis Using Python](https://img.shields.io/badge/IBM-Data%20Analysis%20Using%20Python-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/2f6f6e45-cae7-4c95-affa-8a917e89d93f)  
 [![Data Visualization Using Python](https://img.shields.io/badge/IBM-Data%20Visualization%20Using%20Python-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/f1d96401-0097-4e9d-b0d0-66008d96dbfa)
-
-📜 View more badges and certificates on  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
-
 
 ---
 
@@ -131,7 +124,6 @@ If you found my work interesting or useful, feel free to connect or reach out �
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Gmail-shivharebhupendra0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivharebhupendra0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendra-shivhare-a8a02a25b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivharebhupendra)
 
 ---
