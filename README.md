@@ -2,7 +2,7 @@
 
 ## Data Analyst | Data Science Instructor | Python | SQL | Power BI | Machine Learning
 
-I’m currently working as a **Data Science Instructor** and actively transitioning into **Data Analyst / Data Science roles**.
+I’m currently working as a **Data Science Instructor** and actively working on AI.
 
 I enjoy solving business problems using **data analysis, dashboards, SQL, Python, and machine learning**. My background in teaching has helped me build strong conceptual clarity and communication skills, and I’m now focused on applying these skills in real-world data projects.
 
@@ -15,7 +15,7 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 
 ## 💼 Experience
 
-### Data Science Instructor | Allsoft Solutions
+### Data Science Instructor | IBM IX
 - Delivered training in **Python, Data Analytics, Machine Learning, IBM Watson Studio, IBM Cloud, and Cognos Analytics**.
 - Guided learners through **data cleaning, exploratory data analysis (EDA), visualization, and real-world project workflows**.
 - Designed and supported **industry-aligned labs, case studies, and student projects** focused on business problem-solving.
