@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Bhupendra Shivhare
 
-## Data Analyst | Data Science Instructor | Python | SQL | Power BI | Machine Learning
+## Data Analyst | Data Science Trainer | Python | SQL | Power BI | Machine Learning
 
-I’m currently working as a **Data Science Instructor** and actively working on AI.
+I’m currently working as a **Data Science Trainer** and actively working on AI.
 
 I enjoy solving business problems using **data analysis, dashboards, SQL, Python, and machine learning**. My background in teaching has helped me build strong conceptual clarity and communication skills, and I’m now focused on applying these skills in real-world data projects.
 
@@ -15,7 +15,7 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 
 ## 💼 Experience
 
-### Data Science Instructor | IBM IX
+### Data Science Trainer | IBM IX
 - Delivered training in **Python, Data Analytics, Machine Learning, IBM Watson Studio, IBM Cloud, and Cognos Analytics**.
 - Guided learners through **data cleaning, exploratory data analysis (EDA), visualization, and real-world project workflows**.
 - Designed and supported **industry-aligned labs, case studies, and student projects** focused on business problem-solving.
@@ -39,6 +39,8 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 **B.Tech in Electronics and Communication Engineering**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
 
+**M.Tech in Computer Science Engineering**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
 ---
 
 
