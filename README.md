@@ -41,6 +41,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
 
 **M.Tech in Computer Science Engineering**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Madhya Pradesh
+
 ---
 
 
