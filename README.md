@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bhupendra Shivhare
 
-## Data Analyst | Data Science Trainer | Python | SQL | Power BI | Machine Learning
+## Data Analyst & Scientist | Data Science Trainer | Python | SQL | Power BI | Machine Learning
 
 I’m currently working as a **Data Science Trainer** and actively working on AI.
 
@@ -21,6 +21,13 @@ I enjoy solving business problems using **data analysis, dashboards, SQL, Python
 - Designed and supported **industry-aligned labs, case studies, and student projects** focused on business problem-solving.
 - Worked with **cloud-based analytics tools and reporting platforms** to demonstrate data-driven decision-making and dashboarding concepts.
 - Mentored students in **project development, interview preparation, and career readiness** for analytics and data roles.
+
+### Data Analyst | Masai School
+- Analyzed student and business datasets using SQL, Excel, and Python to generate actionable insights and support data-driven decision-making.
+- Developed interactive dashboards and reports in Power BI to track key metrics such as student engagement, placement performance, and operational efficiency.
+- Performed data cleaning, validation, and transformation to ensure data accuracy and consistency across reporting systems.
+- Collaborated with cross-functional teams to identify trends, measure program outcomes, and provide recommendations for process improvement.
+- Automated recurring reports and data workflows, reducing manual effort and improving reporting turnaround time.
 
 ### Testing Engineer → Engineer | DBG Technology
 - Worked in **Testing & Quality Assurance** across consumer electronic devices including **audio systems, cameras, and touch panels**.
